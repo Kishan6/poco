@@ -1,4 +1,5 @@
 ![alt text][logo]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKishan6%2Fpoco.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKishan6%2Fpoco?ref=badge_shield)
 
 [![poco-ci](https://github.com/pocoproject/poco/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/pocoproject/poco/actions/workflows/ci.yml)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/370/badge)](https://bestpractices.coreinfrastructure.org/projects/370)
@@ -185,3 +186,7 @@ Side-by-side use of Boost and POCO is a very common occurrence.
 
 [overview]: doc/images/overview.png "Poco Overview"
 [logo]: doc/images/logo.png "Poco Logo"
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKishan6%2Fpoco.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKishan6%2Fpoco?ref=badge_large)
